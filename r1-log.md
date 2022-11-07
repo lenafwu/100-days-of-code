@@ -7,4 +7,6 @@ D1 Tried all kinds of solutions on the internet to gain access to my own repo. F
      
 D2 Unity basics continued. Collisions, add & access layers, trigger.  
 
+D3 sovled leetcode and Codewar challenge.  
+
 

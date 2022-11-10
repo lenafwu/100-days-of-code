@@ -11,6 +11,6 @@ D3 sovled leetcode and Codewar challenge.
 
 D4 solved leetcode and Codewar challenge. Learnt about Interface in C#.
 
-D4 trained 1 leetcode and 3 Codewar challenges. Learnt about Linked List.
+D5 trained 1 leetcode and 3 Codewar challenges. Learnt about Linked List.
 
 

@@ -13,4 +13,5 @@ D4 solved leetcode and Codewar challenge. Learnt about Interface in C#.
 
 D5 trained 1 leetcode and 3 Codewar challenges. Learnt about Linked List.
 
+D6 leetcode & codewar challenges. learnt about LINQ query, jagged array, sort.
 
